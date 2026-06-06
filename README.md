@@ -20,7 +20,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=3&section=header&reversal=false" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=4&section=header" width="100%"/>
 
 <br/>
 
@@ -31,13 +31,13 @@ mumal = {
     "role"     : "AI/ML Engineer · Backend Developer · Researcher",
     "studying" : "B.Tech CSE @ Mody University (2023–2027)",
     "building" : "RestaurantOS — a multi-tenant Restaurant SaaS",
-    "research" : "HealthGuard AI — BioBERT + RAG medical assistant (published)",
+    "research" : "HealthGuard AI — BioBERT + RAG medical assistant (under review)",
     "currently": "Deep into Django · React · PostgreSQL · LangChain",
     "motto"    : "Ship fast. Learn faster. Build things that matter."
 }
 ```
 
-- 🔬 &nbsp; Published researcher in **AI-powered healthcare** (BioBERT, FAISS, local LLMs)
+- 🔬 &nbsp; Co-authored research paper on **AI-powered healthcare** — under review (BioBERT, FAISS, local LLMs)
 - 🏗️ &nbsp; Building production-grade **SaaS** at internships — not just tutorials
 - 🧠 &nbsp; Obsessed with **backend architecture**, intelligent systems, and clean APIs
 - 🏆 &nbsp; Smart India Hackathon **Runner-Up** · Google Agentic AI · Walmart Sparkathon
@@ -45,7 +45,7 @@ mumal = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=3&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=4&section=footer" width="100%"/>
 
 <br/>
 
@@ -96,7 +96,7 @@ mumal = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=3&section=header&reversal=false" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=4&section=header" width="100%"/>
 
 <br/>
 
@@ -167,15 +167,15 @@ OpenCV + Tesseract pipeline for scanned PDFs and handwritten forms with adaptive
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=3&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=4&section=footer" width="100%"/>
 
 <br/>
 
 ## 💼 &nbsp; Experience & Research
 
-**🔬 Research Publication — 2025**
+**🔬 Research Paper — 2025** *(Under Review)*
 > *HealthGuard AI: Self-Hosted RAG Medical Assistant Using BioBERT and Local LLMs*
-> Department of CSE, Mody University of Science and Technology
+> Co-authored · Department of CSE, Mody University of Science and Technology
 > `BioBERT` `RAG` `FAISS` `Ollama` `MedQA`
 
 ---
@@ -192,7 +192,7 @@ OpenCV + Tesseract pipeline for scanned PDFs and handwritten forms with adaptive
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=3&section=header&reversal=false" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=4&section=header" width="100%"/>
 
 <br/>
 
@@ -205,7 +205,7 @@ OpenCV + Tesseract pipeline for scanned PDFs and handwritten forms with adaptive
 | 🥈 | **Smart India Hackathon** — Runner-Up out of 30+ teams |
 | 🤖 | **Google Agentic AI Hackathon** — Participant |
 | 🛍️ | **Walmart Sparkathon** — Participant |
-| 📖 | **Research Published** — HealthGuard AI (2025) |
+| 📖 | **Research Paper** — HealthGuard AI *(Under Review, 2025)* |
 | 📷 | **Coordinator** — Picturesque Photography Club |
 | 🎤 | **Member** — Penumbra Public Speaking Society |
 
@@ -213,31 +213,30 @@ OpenCV + Tesseract pipeline for scanned PDFs and handwritten forms with adaptive
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=3&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=4&section=footer" width="100%"/>
 
 <br/>
 
 ## 📊 &nbsp; GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mumal2605&show_icons=true&bg_color=fff0f5&title_color=c2185b&icon_color=e91e8c&text_color=880e4f&border_color=f48fb1&border_radius=12&hide_border=false" height="170" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mumal2605&show_icons=true&bg_color=fff0f5&title_color=c2185b&icon_color=e91e8c&text_color=880e4f&border_color=f48fb1&border_radius=12" height="170" alt="GitHub Stats"/>
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mumal2605&layout=compact&bg_color=fff0f5&title_color=c2185b&text_color=880e4f&border_color=f48fb1&border_radius=12" height="170" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mumal2605&background=fff0f5&ring=c2185b&fire=e91e8c&currStreakLabel=c2185b&sideLabels=880e4f&currStreakNum=c2185b&sideNums=880e4f&dates=ad7989&border=f48fb1&border_radius=12" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mumal2605&background=fff0f5&ring=c2185b&fire=e91e8c&currStreakLabel=c2185b&sideLabels=880e4f&currStreakNum=c2185b&sideNums=880e4f&dates=ad7989&border=f48fb1&border_radius=12" alt="GitHub Streak"/>
 </p>
 
 <br/>
 
-<!-- Snake animation across contribution graph -->
+<!-- 🐍 Snake eating contributions — hosted, no setup needed -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mumal2605/mumal2605/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake dark"/>
-  <img src="https://raw.githubusercontent.com/mumal2605/mumal2605/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake light"/>
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="contribution snake"/>
 </p>
 
-<!-- Cute running horse/dino across the section -->
+<!-- 🐴 Running horse across the page -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="running horse"/>
 </p>
@@ -251,7 +250,39 @@ OpenCV + Tesseract pipeline for scanned PDFs and handwritten forms with adaptive
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=3&section=header&reversal=false" width="100%"/>
+<!--
+=====================================================
+  🐍 SNAKE SETUP — do this once in your profile repo
+=====================================================
+Create file: .github/workflows/snake.yml
+
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: mumal2605
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+Then go to Actions tab → Run workflow manually once → snake appears!
+=====================================================
+-->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=4&section=header" width="100%"/>
 
 ## 🌸 &nbsp; Let's Connect
 
