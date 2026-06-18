@@ -220,23 +220,20 @@ OpenCV + Tesseract pipeline for scanned PDFs and handwritten forms with adaptive
 ## 📊 &nbsp; GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mumal2605&show_icons=true&bg_color=fff0f5&title_color=c2185b&icon_color=e91e8c&text_color=880e4f&border_color=f48fb1&border_radius=12&cache_seconds=1800" height="170" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mumal2605&show_icons=true&bg_color=fff0f5&title_color=c2185b&icon_color=e91e8c&text_color=880e4f&border_color=f48fb1&border_radius=12" height="170" alt="GitHub Stats"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mumal2605&layout=compact&bg_color=fff0f5&title_color=c2185b&text_color=880e4f&border_color=f48fb1&border_radius=12&cache_seconds=1800" height="170" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mumal2605&layout=compact&bg_color=fff0f5&title_color=c2185b&text_color=880e4f&border_color=f48fb1&border_radius=12" height="170" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mumal2605&background=fff0f5&ring=c2185b&fire=e91e8c&currStreakLabel=c2185b&sideLabels=880e4f&currStreakNum=c2185b&sideNums=880e4f&dates=ad7989&border=f48fb1&border_radius=12" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mumal2605&background=fff0f5&ring=c2185b&fire=e91e8c&currStreakLabel=c2185b&sideLabels=880e4f&currStreakNum=c2185b&sideNums=880e4f&dates=ad7989&border=f48fb1&border_radius=12" alt="GitHub Streak"/>
 </p>
 
 <br/>
 
-<!-- 🐍 Snake — generated daily from your own output branch via GitHub Actions -->
+<!-- 🐍 Snake eating contributions — hosted, no setup needed -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mumal2605/mumal2605/output/github-contribution-grid-snake-dark.svg"/>
-    <img src="https://raw.githubusercontent.com/mumal2605/mumal2605/output/github-contribution-grid-snake.svg" alt="contribution snake"/>
-  </picture>
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="contribution snake"/>
 </p>
 
 <!-- 🐴 Running horse across the page -->
@@ -255,44 +252,33 @@ OpenCV + Tesseract pipeline for scanned PDFs and handwritten forms with adaptive
 
 <!--
 =====================================================
-  🐍 SNAKE SETUP — one time only!
+  🐍 SNAKE SETUP — do this once in your profile repo
 =====================================================
-1. Go to your mumal2605/mumal2605 repo
-2. Create file: .github/workflows/snake.yml
-3. Paste this exact content:
+Create file: .github/workflows/snake.yml
 
 name: Generate Snake
-
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
-
 jobs:
   snake:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-
     steps:
-      - name: Generate snake animation
-        uses: Platane/snk@v3
+      - uses: Platane/snk@v3
         with:
           github_user_name: mumal2605
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3
+      - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-4. Go to Actions tab → "Generate Snake" → "Run workflow"
-5. Done! Snake will now update daily automatically 🐍
+Then go to Actions tab → Run workflow manually once → snake appears!
 =====================================================
 -->
 
